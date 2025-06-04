@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do 🎀 TaianaFerreiraDeCamargo 🎀
+## Bem-vindo(a) ao perfil da 🎀 TaianaFerreiraDeCamargo 🎀
 
  <div>
    <a href="https://github.com/TaianaFerreiraDeCamargo
