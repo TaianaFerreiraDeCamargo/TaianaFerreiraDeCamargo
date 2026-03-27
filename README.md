@@ -120,16 +120,6 @@ Front-End Developer em evolução 🚀
 
 ---
 
-<h2 align="center">🌐 Conexões</h2>
-
-<p align="center">
-  <a href="https://github.com/TaianaFerreiraDeCamergo">
-    <img src="https://img.shields.io/badge/GitHub-00ffff?style=for-the-badge&logo=github&logoColor=black">
-  </a>
-</p>
-
----
-
 <!-- SNAKE ANIMATION -->
 
 <p align="center">
