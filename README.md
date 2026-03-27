@@ -104,7 +104,7 @@ Front-End Developer em evolução 🚀
 <h2 align="center">🔥 Performance</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TaianaFerreiraDeCamergo&theme=tokyonight&hide_border=true&ring=00ffff&fire=00ffff&currStreakLabel=00ffff"/>
+  <img src="https://streak-stats.demolab.com?user=TaianaFerreiraDeCamergo&theme=tokyonight&hide_border=true&ring=ff69b4&fire=ff69b4"/>
 </p>
 
 ---
