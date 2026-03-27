@@ -1,5 +1,9 @@
 <!-- HEADER FUTURISTA -->
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/3c/2e/5c/3c2e5c1f6e9c4f9e2f4b7d0a9d1e6b2a.gif" width="100%">
+</p>
+
 <h1 align="center">💖 Taiana Dev 💖</h1>
 
 <p align="center">
