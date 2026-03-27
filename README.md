@@ -15,7 +15,7 @@ Front-End Developer em evolução 🚀
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0f2027,100:00ffff&height=220&section=header&text=Taiana%20Ferreira%20De%20Camergo&fontSize=35&fontColor=00ffff&animation=fadeIn&stroke=00ffff"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=ff69b4&size=25&center=true&vCenter=true&width=600&lines=💖+Bem-vindo+ao+meu+perfil!;🌸+Front-End+Developer;✨+Criando+coisas+fofas"/>
 </p>
 
 <!-- DIGITAÇÃO -->
