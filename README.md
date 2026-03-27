@@ -46,15 +46,58 @@ Front-End Developer em evolução 🚀
 
 ---
 
-<h2 align="center">🧠 Inteligência em evolução</h2>
+<h1 align="center">💖 Taiana Dev 💖</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TaianaFerreiraDeCamergo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=00ffff"/>
+✨ Front-End Developer em evolução ✨<br>
+🚀 Criando experiências modernas na web
 </p>
 
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaianaFerreiraDeCamergo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff"/>
+  <img src="https://img.shields.io/badge/💖_Code-Pink-ff69b4?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Front--End-Developer-ff69b4?style=for-the-badge&logo=javascript&logoColor=white">
 </p>
+
+---
+
+<h2 align="center">⚡ Tecnologias</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-ff69b4?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-ff69b4?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-ff69b4?style=for-the-badge&logo=javascript&logoColor=white">
+</p>
+
+---
+
+<h2 align="center">🚀 Sobre mim</h2>
+
+<p align="center">
+💻 Estudante de programação<br>
+🎨 Apaixonada por tecnologia e design<br>
+⚡ Evoluindo todos os dias como desenvolvedora
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TaianaFerreiraDeCamergo&show_icons=true&theme=radical&hide_border=true">
+</p>
+
+---
+
+<h2 align="center">🌐 Conecte-se</h2>
+
+<p align="center">
+  <a href="https://github.com/TaianaFerreiraDeCamergo">
+    <img src="https://img.shields.io/badge/GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
 
 ---
 
